@@ -1,5 +1,6 @@
 reload "plugins"
 reload "options"
+-- reload "keymaps"
 reload "autocommands"
 -- reload "lsp"
-reload "treesitter"
+-- reload "treesitter"
