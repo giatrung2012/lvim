@@ -1,10 +1,5 @@
--- Additional Plugins
 lvim.plugins = {
-  {
-    "folke/trouble.nvim",
-    cmd = "troubletoggle"
-  },
-  "Mofiqul/dracula.nvim",
+  "navarasu/onedark.nvim",
   "wakatime/vim-wakatime",
   {
     "Pocco81/auto-save.nvim",
